@@ -1,0 +1,1 @@
+Reemplazar las variables por sus propios datos de mysql en el archivo conection.php.
